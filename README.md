@@ -6,4 +6,6 @@ To install, run npm i
 
 To run, run npm start
 
+then go to https://localhost:3001
+
 Requires the backend to do the file management.

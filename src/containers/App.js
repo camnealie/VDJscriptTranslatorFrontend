@@ -80,7 +80,7 @@ export default class App extends Component {
         <ThemeProvider theme={theme}>
           <BrowserRouter>
             <Routes>
-              <Route path="/map" element={<Mapper />} />
+              <Route path="/" element={<Mapper />} />
             </Routes>
           </BrowserRouter>
         </ThemeProvider>
